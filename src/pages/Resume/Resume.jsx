@@ -18,10 +18,10 @@ const Resume = () => {
           <h3 className="h3">Education</h3>
         </div>
         <ol className="timeline-list">
-          <TimelineItem title="University of Education Lahore, Multan Campus" date="20019 — 2021" description="Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur." />
-          <TimelineItem title="Alemdar College Multan" date="20017 — 20019" description="Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis." />
-          <TimelineItem title="Emerson College Multan" date="2015 — 2017" description="Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos." />
-          <TimelineItem title="Piolt School Multan" date="2013 — 2015" description="Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos." />
+          <TimelineItem title="University of Education Lahore, Multan Campus" date="20019 — 2021" description="Academic institution fostering excellence in education and research." />
+          <TimelineItem title="Alemdar College Multan" date="20017 — 20019" description="A leading educational institution committed to academic excellence and holistic development." />
+          <TimelineItem title="Emerson College Multan" date="2015 — 2017" description="A distinguished academic institution dedicated to nurturing scholarly achievement and personal growth." />
+          <TimelineItem title="Piolt School Multan" date="2013 — 2015" description="A premier institution dedicated to shaping future aviators with excellence in education and training." />
         </ol>
       </div>
 
@@ -43,7 +43,7 @@ const Resume = () => {
         <h3 className="h3 skills-title">My skills</h3>
         <ul className="skills-list content-card">
           <SkillItem title="HTML" value={90} />
-          <SkillItem title="CSS" value={90} />
+          <SkillItem title="CSS" value={70} />
           <SkillItem title="JavaScript" value={85} />
           <SkillItem title="React" value={80} />
           <SkillItem title="Node.js" value={80} />

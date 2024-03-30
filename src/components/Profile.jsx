@@ -76,7 +76,7 @@ const Profile = () => {
             <div className="contact-info">
               <p className="contact-title">Location</p>
 
-              <address>buhrgate , Multan Pakistan</address>
+              <address>baron buhrgate , Multan Pakistan</address>
             </div>
           </li>
         </ul>
