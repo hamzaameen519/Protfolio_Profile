@@ -1,16 +1,16 @@
 import { GiCalendar, GiClawSlashes, GiMailbox, GiMayanPyramid, GiPhone } from "react-icons/gi";
 
-const Aside = () => {
+const Profile = () => {
   return (
     <aside className="sidebar">
       <div className="sidebar-info">
         <figure className="avatar-box">
-          <img src={"/images/mamun.jpg"} alt="Richard hanrick" width="80" />
+          <img src={"/images/mamun.png"} alt="Richard hanrick" width="80" />
         </figure>
 
         <div className="info-content">
           <h1 className="name" title="Richard hanrick">
-            Md AL Mamun
+            Hamza Ameen
           </h1>
 
           <p className="title">Web developer</p>
@@ -107,4 +107,4 @@ const Aside = () => {
   );
 };
 
-export default Aside;
+export default Profile;
