@@ -2,20 +2,23 @@
 
 import "./App.css";
 
-
 import { Outlet } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import Aside from "./components/Aside";
+import Profile from "./components/Profile";
 
 function App() {
   return (
     <>
-      <Aside/>
+      <Profile />
       <div className="main-content">
-       <Navbar/>
-        <section style={{
-          scrollBehavior: "smooth"
-        }}><Outlet/></section>
+        <Navbar />
+        <section
+          style={{
+            scrollBehavior: "smooth",
+          }}
+        >
+          <Outlet />
+        </section>
       </div>
     </>
   );
