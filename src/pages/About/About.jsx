@@ -7,8 +7,8 @@ import Service from "./Service";
 const servicesData = [
   {
     icon: "/images/icon-design.svg",
-    title: "Web design",
-    description: "The most modern and high-quality design made at a professional level.",
+    title: "Front-end Development:",
+    description: "Ensuring responsive design to make sure the application works well across different devices and screen sizes.",
   },
   {
     icon: "/images/icon-dev.svg",
@@ -17,13 +17,13 @@ const servicesData = [
   },
   {
     icon: "/images/icon-app.svg",
-    title: "Mobile apps",
+    title: "Mobile And Ios apps",
     description: "Professional development of applications for iOS and Android.",
   },
   {
-    icon: "/images/icon-photo.svg",
-    title: "Photography",
-    description: "I make high-quality photos of any category at a professional level.",
+    icon: "/images/icon-dev.svg",
+    title: "Backend Development",
+    description: "In backend development, I build and maintain the server-side logic, databases, and infrastructure of web applications.",
   },
 ];
 

@@ -46,15 +46,16 @@ const Resume = () => {
           <SkillItem title="CSS" value={70} />
           <SkillItem title="JavaScript" value={85} />
           <SkillItem title="React" value={80} />
+          <SkillItem title="ReactNative" value={60} />
           <SkillItem title="Node.js" value={80} />
-          <SkillItem title="Express.js" value={75} />
+          <SkillItem title="Express.js" value={90} />
           <SkillItem title="MongoDB" value={75} />
           <SkillItem title="SQL" value={70} />
           <SkillItem title="Git" value={80} />
-          <SkillItem title="RESTful APIs" value={75} />
+          <SkillItem title="RESTful APIs" value={95} />
           <SkillItem title="GraphQL" value={70} />
           <SkillItem title="AWS" value={65} />
-          <SkillItem title="Kibana" value={60} />
+          <SkillItem title="GitHub" value={90} />
           <SkillItem title="Stripe" value={70} />
           <SkillItem title="Socket.io" value={75} />
           <SkillItem title="Nest.js" value={70} />
@@ -63,6 +64,9 @@ const Resume = () => {
           <SkillItem title="MQTT" value={65} />
           <SkillItem title="Docker" value={70} />
           <SkillItem title="Keycloak" value={60} />
+          <SkillItem title="Graphql" value={80} />
+          <SkillItem title="Anglar" value={70} />
+          <SkillItem title="Nextjs" value={80} />
         </ul>
       </div>
     </section>

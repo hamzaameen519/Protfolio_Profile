@@ -16,7 +16,7 @@ const Navbar = () => {
         </NavLink>
       </li>
 
-      <li className="navbar-item">
+      {/* <li className="navbar-item">
         <NavLink to="/portfolio" className="navbar-link" data-nav-link>
           Portfolio
         </NavLink>
@@ -26,7 +26,7 @@ const Navbar = () => {
         <NavLink to="/blogs" className="navbar-link" data-nav-link>
           Blog
         </NavLink>
-      </li>
+      </li> */}
 
       <li className="navbar-item">
         <NavLink to="/contact" className="navbar-link" data-nav-link>
